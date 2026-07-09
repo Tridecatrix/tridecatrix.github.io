@@ -25,3 +25,6 @@ projects
 [![Github](assets/github.png)](https://www.github.com/Tridecatrix)
 [![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/adnan-hasnat-5b3b24200/)
 [![Email](assets/email.png)](mailto:adnan.hasnat2004@gmail.com)
+[![ORCID](assets/orcid.png)](https://orcid.org/0009-0003-3580-3102)
+
+[Honours thesis](assets/thesis.pdf)
