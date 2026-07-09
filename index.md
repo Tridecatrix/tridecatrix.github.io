@@ -7,7 +7,7 @@ layout: default
 
 # About me
 
-<img src="assets/me.jpeg" style="float:right; margin-left=20px" width="200">
+<img src="assets/me.jpeg" style="float:right; margin-left=20px" height="200">
 
 Hello! I am a computer science and maths graduate from the Australian National University, specialising in systems and architecture. My main interests are computer microarchitecture and memory/storage systems, but my background is varied and I am open to any work in the field of computer science. 
 
@@ -17,9 +17,9 @@ In my spare time, I train in martial arts, read books and pursue various side pr
 
 Honours project: "ZTera: Extending Java Heaps Using Compressed Memory". Supervised by Shoaib Akram, conducted in collaboration with Iacovos Kolokakis. [Thesis](assets/thesis.pdf). 
 
-**A. Hasnat**, S. Akram (2025). “SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search,” ACM Transactions on Architecture and Code Optimization (TACO). DOI 10.1145/3703351. [Paper](https://dl.acm.org/doi/10.1145/3703351) | [conference talk](https://youtu.be/82MmRxixvrE?si=PQqhX0rBUJkp8As6) | [source code](https://github.com/Tridecatrix/SPIRIT-TACO-2024.git).
+**A. Hasnat**, S. Akram (2025). “SPIRIT: Scalable and Persistent In-Memory Indices for Real-Time Search,” ACM Transactions on Architecture and Code Optimization (TACO). DOI 10.1145/3703351. [Paper](https://dl.acm.org/doi/10.1145/3703351) / [conference talk](https://youtu.be/82MmRxixvrE?si=PQqhX0rBUJkp8As6) / [source code](https://github.com/Tridecatrix/SPIRIT-TACO-2024.git).
 
-**A. Hasnat**, W. Heirman, S. Akram (2025). “Analyzing and Exploiting Memory Hierarchy Parallelism with MLP Stacks,” IEEE Computer Architecture Letters (CAL). DOI 10.1109/LCA.2025.3558808. [Paper](https://ieeexplore.ieee.org/document/10955451) | [source code](https://github.com/Tridecatrix/mlp-stacks-sniper.git).
+**A. Hasnat**, W. Heirman, S. Akram (2025). “Analyzing and Exploiting Memory Hierarchy Parallelism with MLP Stacks,” IEEE Computer Architecture Letters (CAL). DOI 10.1109/LCA.2025.3558808. [Paper](https://ieeexplore.ieee.org/document/10955451) / [source code](https://github.com/Tridecatrix/mlp-stacks-sniper.git).
 
 # Links
 
