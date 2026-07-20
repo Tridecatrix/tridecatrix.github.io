@@ -9,7 +9,7 @@ layout: default
 
 <img src="assets/me.jpeg" style="float:right; margin-left=20px" height="200">
 
-Hello! I am a computer science and maths graduate from the Australian National University, specialising in systems and architecture. My main interests are computer microarchitecture and memory/storage systems, but my background is varied and I am open to any work in the field of computer science. 
+Hello! I am a 2025 advanced computer science R&D and science double degree graduate from the Australian National University, specialising in computer systems and architecture. My main interests are computer microarchitecture and memory/storage systems, and I have experience in working on various low-level systems and frameworks through my research projects. I am looking to develop and contribute my skills as a software engineer, performance engineer and systems developer.
 
 In my spare time, I train in martial arts, read books and pursue various side projects, both programming-related and not. 
 
