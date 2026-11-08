@@ -11,8 +11,6 @@ layout: default
 
 Hello! I am a 2025 advanced computer science R&D and science double degree graduate from the Australian National University, specialising in computer systems and architecture. My main interests are computer microarchitecture and memory/storage systems, and I have experience in working on various low-level systems and frameworks through my research projects. 
 
-<!-- I currently work as a Graduate Vulnerability Researcher at InfoSect CBR. -->
-
 In my spare time, I train in martial arts, read books and pursue various side projects, both programming-related and not. 
 
 # Publications and projects
